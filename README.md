@@ -2,19 +2,38 @@
 
 ### Research interests
 
-- Material behaviour of polymers
-- Scanning electron microscopy
-- Multiscale modelling
+<ul>
+    Material behaviour of polymers
+</ul>
+<ul>
+    Scanning electron microscopy
+</ul>
+<ul>
+    Multiscale modelling
+</ul>
 
 ### Skills
-
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
-![Latex](https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&?style=plastic)
-![Tikz](https://img.shields.io/badge/-TikZ-000000?&?style=plastic)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
+<p>
+<ul>
+    <img alt="Abaqus" src="https://img.shields.io/badge/-Abaqus-005386?&amp;logo=dassaultSystemes&amp;logoColor=fff" />
+</ul>
+<ul>
+    <img alt="Fortran" src="https://img.shields.io/badge/-Fortran-734F96?&amp;logo=fortran&amp;logoColor=fff" />
+</ul>
+<ul>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?&amp;logo=Python&amp;logoColor=fff" />
+    <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?&amp;logo=NumPy" />
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?&amp;logo=pandas" />
+</ul>
+<ul>
+    <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?&amp;logo=LaTeX&amp;?style=plastic" />
+    <img alt="TikZ" src="https://img.shields.io/badge/-TikZ-000000?&amp;?style=plastic" />
+    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?&amp;logo=Markdown" />
+</ul>
+<ul>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?&amp;logo=Git&amp;logoColor=fff" />
+</ul>
+</p>
 
 * * *
 
