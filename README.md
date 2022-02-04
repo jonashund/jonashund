@@ -1,14 +1,12 @@
-# Jonas Hund
+[Postdoctoral fellow](https://www.ntnu.no/ansatte/jonas.hund) at NTNU (Department of Structural Engineering)
 
-[Postdoctoral fellow](https://www.ntnu.no/ansatte/jonas.hund) in the polymer group at the [Department of Structural Engineering](https://www.ntnu.no/kt) at [NTNU](https://www.ntnu.edu/)
-
-# Research interests
+### Research interests
 
 - Material behaviour of polymers
 - Scanning electron microscopy
 - Multiscale modelling
 
-# Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
@@ -17,3 +15,15 @@
 ![Tikz](https://img.shields.io/badge/-TikZ-000000?&?style=plastic)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
+
+### Contact
+
+[![Mail](https://img.shields.io/badge/Mail-jonas.hund@ntnu.no-00509e)](mailto:jonas.hund@ntnu.no)
+
+<!---
+<p>
+  <a href="mailto:jonas.hund@ntnu.no">
+    <img alt="email" src="https://img.shields.io/badge/Email-jonas.hund@ntnu.no-00509e?style=for-the-badge" />
+  </a>
+</p>
+---!>
