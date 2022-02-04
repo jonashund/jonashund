@@ -40,6 +40,7 @@
 [![Website](https://img.shields.io/badge/Website-ntnu.no/ansatte/jonas.hund-00509e)](https://www.ntnu.no/ansatte/jonas.hund)
 [![Mail](https://img.shields.io/badge/Mail-jonas.hund@ntnu.no-0078D4?&logo=microsoftoutlook&logoColor=fff)](mailto:jonas.hund@ntnu.no)
 [![Orcid](https://img.shields.io/badge/ORCID-0000--0003--2140--4285-A6CE39?&logo=orcid&logoColor=fff)](https://orcid.org/0000-0003-2140-4285)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Jonas_Hund-4285F4?&logo=googlescholar&logoColor=fff)](https://scholar.google.com/citations?user=L9oEAc8AAAAJ&hl=en)
 
 <!---
 <p>
