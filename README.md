@@ -1,4 +1,4 @@
-[Postdoctoral fellow](https://www.ntnu.no/ansatte/jonas.hund) at NTNU (Department of Structural Engineering)
+Postdoctoral fellow at NTNU (Department of Structural Engineering)
 
 ### Research interests
 
