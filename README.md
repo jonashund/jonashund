@@ -1,16 +1,19 @@
-### Hi there 👋
+# Jonas Hund
 
-<!--
-**jonashund/jonashund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Postdoctoral fellow](https://www.ntnu.no/ansatte/jonas.hund) in the polymer group at the [Department of Structural Engineering](https://www.ntnu.no/kt) at [NTNU](https://www.ntnu.edu/)
 
-Here are some ideas to get you started:
+# Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Material behaviour of polymers
+- Scanning electron microscopy
+- Multiscale modelling
+
+# Skills
+
+![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
+![Latex](https://img.shields.io/badge/-LaTeX-008080?&logo=LaTeX&?style=plastic)
+![Tikz](https://img.shields.io/badge/-TikZ-000000?&?style=plastic)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
