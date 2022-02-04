@@ -16,9 +16,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=fff)
 
-### Contact
+* * *
 
-[![Email](https://img.shields.io/badge/Email-jonas.hund@ntnu.no-00509e)](mailto:jonas.hund@ntnu.no)
+[![Website](https://img.shields.io/badge/Website-ntnu.no/ansatte/jonas.hund-00509e)](https://www.ntnu.no/ansatte/jonas.hund)
+[![Mail](https://img.shields.io/badge/Mail-jonas.hund@ntnu.no-0078D4?&logo=microsoftoutlook&logoColor=fff)](mailto:jonas.hund@ntnu.no)
+[![Orcid](https://img.shields.io/badge/ORCID-0000--0003--2140--4285-A6CE39?&logo=orcid&logoColor=fff)](https://orcid.org/0000-0003-2140-4285)
 
 <!---
 <p>
