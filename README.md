@@ -18,7 +18,7 @@
 
 ### Contact
 
-[![Mail](https://img.shields.io/badge/Mail-jonas.hund@ntnu.no-00509e)](mailto:jonas.hund@ntnu.no)
+[![Email](https://img.shields.io/badge/Email-jonas.hund@ntnu.no-00509e)](mailto:jonas.hund@ntnu.no)
 
 <!---
 <p>
