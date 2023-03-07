@@ -1,16 +1,17 @@
-Postdoctoral fellow at NTNU (Department of Structural Engineering)
+Postdoctoral fellow at Aarhus University (Department of Mechanical and Production Engineering)
 
 ### Research interests
 
 <ul>
-    Material behaviour of polymers
+    Material behaviour of heterogeneous solids
 </ul>
 <ul>
-    Scanning electron microscopy
+    Network analysis of heterogeneous solids
 </ul>
 <ul>
     Multiscale modelling
 </ul>
+
 
 ### Skills
 <p>
@@ -37,15 +38,15 @@ Postdoctoral fellow at NTNU (Department of Structural Engineering)
 
 * * *
 
-[![Website](https://img.shields.io/badge/Website-ntnu.no/ansatte/jonas.hund-00509e)](https://www.ntnu.no/ansatte/jonas.hund)
-[![Mail](https://img.shields.io/badge/Mail-jonas.hund@ntnu.no-0078D4?&logo=microsoftoutlook&logoColor=fff)](mailto:jonas.hund@ntnu.no)
+[![Website](https://img.shields.io/badge/Website-pure.au.dk/portal/da/jonas.hund@mpe.au.dk)](https://pure.au.dk/portal/da/jonas.hund@mpe.au.dk)
+[![Mail](https://img.shields.io/badge/Mail-jonas.hund@mpe.au.dk-0078D4?&logo=microsoftoutlook&logoColor=fff)](mailto:jonas.hund@mpe.au.dk)
 [![Orcid](https://img.shields.io/badge/ORCID-0000--0003--2140--4285-A6CE39?&logo=orcid&logoColor=fff)](https://orcid.org/0000-0003-2140-4285)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Jonas_Hund-4285F4?&logo=googlescholar&logoColor=fff)](https://scholar.google.com/citations?user=L9oEAc8AAAAJ&hl=en)
 
 <!---
 <p>
-  <a href="mailto:jonas.hund@ntnu.no">
-    <img alt="email" src="https://img.shields.io/badge/Email-jonas.hund@ntnu.no-00509e?style=for-the-badge" />
+  <a href="mailto:jonas.hund@mpe.au.dk">
+    <img alt="email" src="https://img.shields.io/badge/Email-jonas.hund@mpe.au.dk-00509e?style=for-the-badge" />
   </a>
 </p>
 ---!>
