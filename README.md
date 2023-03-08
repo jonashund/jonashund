@@ -3,13 +3,10 @@ Postdoctoral fellow at Aarhus University (Department of Mechanical and Productio
 ### Research interests
 
 <ul>
-    Material behaviour of heterogeneous solids
+    Network approaches to modelling the plastic deformation in heterogeneous solids
 </ul>
 <ul>
-    Network analysis of heterogeneous solids
-</ul>
-<ul>
-    Multiscale modelling
+    Multi-scale modelling of heterogeneous solids
 </ul>
 
 
