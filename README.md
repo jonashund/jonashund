@@ -13,15 +13,15 @@ Postdoctoral fellow at Aarhus University (Department of Mechanical and Productio
 ### Skills
 <p>
 <ul>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?&amp;logo=Python&amp;logoColor=fff" />
+    <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?&amp;logo=NumPy" />
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?&amp;logo=pandas" />
+</ul>
+<ul>
     <img alt="Abaqus" src="https://img.shields.io/badge/-Abaqus-005386?&amp;logo=dassaultSystemes&amp;logoColor=fff" />
 </ul>
 <ul>
     <img alt="Fortran" src="https://img.shields.io/badge/-Fortran-734F96?&amp;logo=fortran&amp;logoColor=fff" />
-</ul>
-<ul>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?&amp;logo=Python&amp;logoColor=fff" />
-    <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?&amp;logo=NumPy" />
-    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?&amp;logo=pandas" />
 </ul>
 <ul>
     <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?&amp;logo=LaTeX&amp;?style=plastic" />
