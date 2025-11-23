@@ -1,4 +1,3 @@
-Postdoctoral fellow at Aarhus University (Department of Mechanical and Production Engineering)
 
 ### Research interests
 
@@ -35,15 +34,14 @@ Postdoctoral fellow at Aarhus University (Department of Mechanical and Productio
 
 * * *
 
-[![Website](https://img.shields.io/badge/Website-pure.au.dk/portal/da/jonas.hund@mpe.au.dk-00509e)](https://pure.au.dk/portal/da/jonas.hund@mpe.au.dk)
-[![Mail](https://img.shields.io/badge/Mail-jonas.hund@mpe.au.dk-0078D4?&logo=microsoftoutlook&logoColor=fff)](mailto:jonas.hund@mpe.au.dk)
+[![Mail](https://img.shields.io/badge/Mail-janso.hund@gmail.com-0078D4?&logo=microsoftoutlook&logoColor=fff)](mailto:janso.hund@gmail.com)
 [![Orcid](https://img.shields.io/badge/ORCID-0000--0003--2140--4285-A6CE39?&logo=orcid&logoColor=fff)](https://orcid.org/0000-0003-2140-4285)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Jonas_Hund-4285F4?&logo=googlescholar&logoColor=fff)](https://scholar.google.com/citations?user=L9oEAc8AAAAJ&hl=en)
 
 <!---
 <p>
-  <a href="mailto:jonas.hund@mpe.au.dk">
-    <img alt="email" src="https://img.shields.io/badge/Email-jonas.hund@mpe.au.dk-00509e?style=for-the-badge" />
+  <a href="mailto:janso.hund@gmail.com">
+    <img alt="email" src="https://img.shields.io/badge/Email-janso.hund@gmail.com-00509e?style=for-the-badge" />
   </a>
 </p>
 ---!>
